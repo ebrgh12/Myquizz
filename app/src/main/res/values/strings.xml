@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My quizz</string>
+    <string name="action_settings">Settings</string>
+    <string name="a1">108</string>
+    <string name="a2">96</string>
+    <string name="a3">Squareroot(1164)</string>
+    <string name="b1">Yes</string>
+    <string name="b2">No</string>
+    <string name="d1">UNDEFINED</string>
+    <string name="d2">DEFINED</string>
+    <string name="submitbutton">SUBMIT</string>
+    <string name="restartall">RESTART</string>
+    <string name="Q1">1: What is 12*9</string>
+    <string name="Q2">2: Is 4 a composite number</string>
+    <string name="Q3">3: What is 9 to the power of 3</string>
+    <string name="Q4">4: Is 100 /0 defined ?</string>
+    <string name="Q5">5:Count the number of symbols</string>
+
+
+</resources>
